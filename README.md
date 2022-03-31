@@ -10,7 +10,7 @@ mvn compile
 mvn package
 mvn exec:java -Dexec.mainClass=uta.cse3310.WebPoker
 ```
-point a webbrowser to 127.0.0.1:8080/example.html
+point a webbrowser to 127.0.0.1:8084/poker.html
 
 The projects will be hosted on
 
